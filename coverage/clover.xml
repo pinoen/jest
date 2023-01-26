@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1674748370842" clover="3.2.0">
+  <project timestamp="1674748370842" name="All files">
+    <metrics statements="31" coveredstatements="31" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="10" elements="45" coveredelements="45" complexity="0" loc="31" ncloc="31" packages="1" files="6" classes="6"/>
+    <file name="analyzeArray.js" path="/media/vanem/AUX/top/jest/analyzeArray.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="3" count="5" type="stmt"/>
+      <line num="4" count="20" type="stmt"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="caesarCipher.js" path="/media/vanem/AUX/top/jest/caesarCipher.js">
+      <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="2" count="6" type="stmt"/>
+      <line num="3" count="6" type="stmt"/>
+      <line num="4" count="134" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="108" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="73" type="stmt"/>
+      <line num="8" count="35" type="stmt"/>
+      <line num="11" count="26" type="stmt"/>
+      <line num="14" count="6" type="stmt"/>
+      <line num="18" count="6" type="stmt"/>
+      <line num="19" count="6" type="stmt"/>
+      <line num="20" count="134" type="stmt"/>
+      <line num="22" count="6" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+    </file>
+    <file name="calculator.js" path="/media/vanem/AUX/top/jest/calculator.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+    <file name="capitalize.js" path="/media/vanem/AUX/top/jest/capitalize.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="reverseString.js" path="/media/vanem/AUX/top/jest/reverseString.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="/media/vanem/AUX/top/jest/sum.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
