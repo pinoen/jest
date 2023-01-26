@@ -1,6 +1,5 @@
 function caesarCipher(string, factor) {
   let result = [];
-  let cipher = ''
   for (letter of string) {
     if (/\w/.test(letter)) {
       if ((letter.charCodeAt(letter) + factor) <= 90) {
@@ -12,9 +11,13 @@ function caesarCipher(string, factor) {
       result.push(letter.charCodeAt(letter))
     }
   }
+  return decipher(result)
+}
 
-  for (letter of result) {
-    cipher += String.fromCharCode(letter)
+function decipher(arr) {
+  let cipher = ''
+  for (item of arr) {
+    cipher += String.fromCharCode(item)
   }
   return cipher
 }
